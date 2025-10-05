@@ -9,6 +9,7 @@ let userAnswer = "value";
     feedback.textContent = "That's incorrect. Try again!"
   }
   ["quiz", "checked"]
-
-}
 document.getElementById("submit-answer")
+}
+addEventListener(checkAnswer)
+
