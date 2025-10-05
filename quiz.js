@@ -8,6 +8,7 @@ let userAnswer = "value";
  }else{
     feedback.textContent = "That's incorrect. Try again!"
   }
+  ["quiz", "checked"]
 
 }
 document.getElementById("submit-answer")
